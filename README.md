@@ -1,5 +1,5 @@
-### Ex03-Univariate-Analysis
-### Aim:
+# Ex03-Univariate-Analysis
+# Aim:
 To read the given data and perform the univariate analysis with different types of plots.
 
 # Explanation:
@@ -72,7 +72,7 @@ sns.histplot(x='Postal Code',data=df)
 ### Distribution plot:
 ![image](https://user-images.githubusercontent.com/113497680/228892246-cb5ba2ff-6cc6-4a9a-ac7d-52802b3cb315.png)
 ### Histogram plot:
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/113497680/228894148-02a382c7-795c-4a4b-80b4-105f50fb5015.png)
 
 ### Result:
 Thus we have read the given data and performed the univariate analysis with different types of plots.
